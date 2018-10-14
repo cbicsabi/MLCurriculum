@@ -2,7 +2,7 @@
 
 Curriculum for my #100MLCodeChallenge
 
-This is just a mapping of my road through the challenge, part of which can be seen on my Twitter account as well. Here we go:
+This is just a mapping of my road through the challenge, part of which can be seen on my Twitter account as well. Keep in mind that there is no ranking here, but I tried to insert them in a cronological order as I passed through them. Here we go:
 
 Main stuff:
 1. Linear Algebra - https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
@@ -17,6 +17,8 @@ Sencondary Stuff:
 4. TPU Machine Learning - https://www.youtube.com/watch?v=jgNwywYcH4w
 5. Quantum Machine Learning - https://www.youtube.com/watch?v=AAO4oq2M_48
 6. AI Takes IQ Test - https://www.youtube.com/watch?v=eSaShQbUJTQ
+7. TOP 100 Medium Articles on ML -  https://becominghuman.ai/top-100-medium-com-c2695ab3270c
+7.1 Machine Learning is Fun! (all parts) - https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471 
 
 Fun Stuff:
 1. AI vs GO master - https://www.youtube.com/watch?v=l-GsfyVCBu0
