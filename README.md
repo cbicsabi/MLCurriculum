@@ -22,6 +22,7 @@ This is just a mapping of my road through the challenge, part of which can be se
 8. !!!Research Papers!!! 
   * https://distill.pub/
   * https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+  * https://arxiv.org/abs/1806.04558
 9. Google's Machine Learning Recipes - https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 
 ## Fun Stuff:
